@@ -1,0 +1,12 @@
+{
+	"level1":{
+		"url":"https://the-internet.herokuapp.com/",
+		"pageloadtimeout":"90",
+		"implicitwaittime":"30"
+	},
+	"prod":{
+		"url":"https://the-internet.herokuapp.com/",
+		"pageloadtimeout":"90",
+		"implicitwaittime":"30"
+	}
+}
